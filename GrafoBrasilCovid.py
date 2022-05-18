@@ -1,7 +1,7 @@
 import pandas as pd
 import torch as tc
 
-class GrafoBrasilCovid19():
+class Dataset():
     
     def __init__(self, path='dados/gerado/'):
         self.path = path
