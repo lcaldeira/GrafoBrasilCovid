@@ -1,5 +1,5 @@
-# Covid-19 and Road Modes Graph
+# Grafo de Covid-19 com Modais Viários
 
-This dataset contains a graph with Brazilian municipalities as the vertices, existing road modes between them being edges and municipal data being the vertex attributes (features).
+Esse _dataset_ contem a série histórica de casos e mortes por Covid-19, população estimada, área territorial e número de leitos hospitalares por município brasileiro. 
 
-The main features are the Covid-19 pandemic daily numbers (case and death time series), but they also have demographic information, like territorial area, estimated population and number of hospital beds.
+Também modela um grafo no qual os vértices são os municípios e as areastas são as rotas que os interligam (rodovias, ferrovias, hidrovias, e rotas aéreas).
