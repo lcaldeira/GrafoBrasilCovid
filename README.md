@@ -4,6 +4,8 @@ Esse _dataset_ contem a série histórica de casos e mortes por Covid-19, popula
 
 Também modela um grafo no qual os vértices são os municípios e as areastas são as rotas que os interligam, sendo elas: rodovias, ferrovias, hidrovias, e rotas aéreas.
 
+<img src="https://github.com/lcaldeira/GrafoBrasilCovid/blob/main/imagens/grafo-p1_%5Bpt%5D.png" size="360" />
+
 ## Fontes de Dados
 
 As origens de onde os dados foram extraídos são listadas abaixo:
