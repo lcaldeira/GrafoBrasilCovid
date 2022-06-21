@@ -1,5 +1,5 @@
 #pip install selenium
-#pip3 install webdriver-manager
+#pip install webdriver-manager
 
 import os
 import time
